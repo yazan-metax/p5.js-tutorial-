@@ -34,4 +34,9 @@
 
 This project is open for experimentation, and your creative touch is highly encouraged. Adjust the inputs, experiment with new mathematical formulas, and share your version of the animation. Together, let's push the boundaries of what p5.js can do!
 
+<p align="center"> over view 🙂</p>
+
 <img src="https://github.com/yazan-metax/p5.js_tutorial/blob/main/p5.pics/Screenshot%202024-02-06%20at%2023.06.12.png">
+<img src="https://github.com/yazan-metax/p5.js_tutorial/blob/main/p5.pics/Screenshot%202024-02-06%20at%2022.57.43.png">
+<img src="https://github.com/yazan-metax/p5.js_tutorial/blob/main/p5.pics/Screenshot%202024-02-06%20at%2023.06.35.png">
+<img src="https://github.com/yazan-metax/p5.js_tutorial/blob/main/p5.pics/Screenshot%202024-02-06%20at%2023.09.46.png">
